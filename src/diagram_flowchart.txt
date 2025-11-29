@@ -1,0 +1,57 @@
+┌──────────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ Start                                                                                                       │
+│     |                                                                                                       │
+│ [Start]                                                                                                     │
+│     |                                                                                                       │
+│ [Onboarding: ustawienia użytkownika (profil, preferencje czasu)]                                            │
+│     |                                                                                                       │
+│ [Menu główne]                                                                                               │
+│     |                                                                                                       │
+│     +---> [Lista zadań] -----------------------------------------------                                     │
+│     |         |                                                                                             │
+│     |         +--> [Utwórz / Edytuj zadanie]                                                                 │
+│     |         |        |                                                                                        │
+│     |         |        +--> [Zapisz zadanie]                                                                   │
+│     |         |                 |                                                                              │
+│     |         |                 +--> (Lokalna baza / chmura)                                                   │
+│     |         |                 |                                                                              │
+│     |         |                 +--> {Czy przypisać do kalendarza?}                                             │
+│     |         |                      |--(tak)--> [Widok kalendarza] ---> [Menu główne]                         │
+│     |         |                      |--(nie)--> [Lista zadań] ----------> [Menu główne]                        │
+│     |         |                                                                                             │
+│     |         +--> [Oznacz jako ukończone]                                                                    │
+│     |                  |                                                                                      │
+│     |                  +--> [Zaktualizuj statystyki]                                                         │
+│     |                          |                                                                              │
+│     |                          +--> (Lokalna baza / chmura)                                                   │
+│     |                          +--> [Synchronizacja (opcjonalna)]                                              │
+│     |                          +--> [Menu główne]                                                              │
+│     |                                                                                                       │
+│     +---> [Widok kalendarza] -----------------------------------------                                        │
+│     |         |                                                                                             │
+│     |         +--> [Przegląd: dzień / tydzień / miesiąc]                                                      │
+│     |         |                                                                                             │
+│     |         +--> {Konflikt terminów?}                                                                      │
+│     |              |--(tak)--> [Zaproponuj przeniesienie / priorytet] --> [Menu główne]                      │
+│     |              |--(nie)--> [Widok kalendarza] ----------------------> [Menu główne]                      │
+│     |                                                                                                       │
+│     +---> [Przypomnienia] --------------------------------------------                                     │
+│     |         |                                                                                             │
+│     |         +--> [Ustaw przypomnienie dla zadania]                                                         │
+│     |                  |                                                                                      │
+│     |                  +--> [Zapisz przypomnienie]                                                           │
+│     |                          |                                                                              │
+│     |                          +--> (Lokalna baza / chmura)                                                   │
+│     |                          +--> [Wyzwól powiadomienie (push / email)]                                      │
+│     |                                  |                                                                      │
+│     |                                  +--> {Użytkownik reaguje?}                                             │
+│     |                                       |--(otwiera) -> [Otwórz zadanie] -> [Lista zadań]                  │
+│                     |                                                                                       │
+│                     -> [Wyświetl postęp: ukończone, czas, wykresy]                                           │
+│                     -> [Propozycje poprawy planu / cele] -> [Menu główne]                                    │
+│                                                                                                           │
+│ (Dodatkowo)                                                                                               │
+│ [Zapisz zadanie] -> [Zaktualizuj statystyki]  // zapis zadania aktualizuje statystyki                      │
+│ Start -> [Menu główne]                                                                                     │
+│ [End] (Koniec)                                                                                             │
+└──────────────────────────────────────────────────────────────────────────────────────────────────────────────┘

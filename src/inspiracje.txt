@@ -1,0 +1,36 @@
+i. Inspiracje (słowa, skojarzenia, pomysły)
+- porządek, koncentracja, rutyna
+- mikro-zadania, rozbijanie pracy
+- przypomnienia, terminy, deadliny
+- kalendarz + lista zadań
+- gamifikacja: punkty, streaki
+- prosty UX, szybkie dodawanie zadań
+- offline-first, synchronizacja
+- statystyki motywujące (postęp, czas)
+- przypomnienia kontekstowe (lokalizacja / czas)
+- integracja z uczelnianym planem zajęć
+
+ii. Krótka lista elementów projektu
+- lista zadań (dodaj/edytuj/usuwaj, priorytety)
+- widok kalendarza i harmonogramu dnia/tygodnia
+- system przypomnień i powiadomień
+- kategorie/tagi i filtry
+- podstawowe statystyki postępów (wykonane zadania, czas)
+- możliwość powtarzania zadań i ustawiania terminów
+- tryb szybkiego dodawania (widget / skrót)
+- prosty onboarding i przykładowe dane
+
+iii. Wstępne dane wejściowe
+- Lista kategorii: Kursy, Projekty, Egzaminy, Praca domowa, Powtórki, Prywatne
+- Lista funkcji: dodaj zadanie, data ukończenia, przypomnienie, priorytet, powtarzanie, tagi, notatka, załącznik, integracja z kalendarzem
+- Ustawienia użytkownika: przypomnienia domyślne, strefa czasowa, synchronizacja
+- Przykładowe zadania startowe: "Przygotować notatki z wykładu", "Oddać projekt X", "Uczyć się do kolokwium", "Powtórka: 30 min"
+- Metryki do zbierania: liczba zakończonych zadań, średni czas realizacji, streak dni z aktywnością
+
+iv. Lista źródeł pomysłu
+- własna potrzeba lepszej organizacji nauki
+- obserwacje problemów rówieśników na studiach
+- inspiracje istniejącymi aplikacjami productivity (Todoist, Google Calendar)
+- rozmowy ze znajomymi / grupą projektową
+- zadania i wymagania kursowe nakładające się w czasie
+- artykuły o efektywnej nauce i zarządzaniu czasem
